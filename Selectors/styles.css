@@ -404,3 +404,130 @@ p.fff_72_15 {
 main#main_79_1 * p {
     color: red;
 }
+/*#82*/
+a#a_82_1:link {
+	color: blue;
+}
+a#a_82_1:visited {
+	color: green;
+}
+a#a_82_1:hover {
+    color: red;
+	text-decoration: none;
+}
+a#a_82_1:active {
+	color: black;
+}
+
+/*#84*/
+a#a_84_1 {color: blue; text-decoration: none;}
+a#a_84_1:hover {color: red; text-decoration: underline;}
+
+/*Задание 85#1*/
+#test_85_1 a#a_85_1 {
+	color: red;
+}
+#test_85_1 a#a_85_1:hover {
+	text-decoration: none;
+}
+/*#86_1*/
+a#a_86_1.zzz_86_1 {
+	color: red;
+}
+a#a_86_1.zzz_86_1:hover {
+	text-decoration: none;
+}
+/*#86_2*/
+#block_86_2 a#a_86_2.zzz_86_2 {
+	color: red;
+}
+#block_86_2 a#a_86_2.zzz_86_2:hover {
+	text-decoration: none;
+}
+/*#86_3*/
+.block_86_3 a#a_86_3.zzz_86_3 {
+	color: red;
+}
+.block_86_3 a#a_86_3.zzz_86_3:hover {
+	text-decoration: none;
+}
+/*#87_1*/
+li#li_87_1:first-child {
+	color: red;
+}   
+/*#87_2*/
+li#li_87_2:last-child {
+	color: green;
+}
+/*#87_3*/
+li#li_87_3:last-child {
+	color: green;
+}
+li#li_87_3:first-child {
+    color: red;
+}
+/*#87_4*/
+li#li_87_4:nth-child(3) {
+	color: red;
+}
+/*#87_5*/
+li#li_87_5:nth-child(odd) {
+	color: red;
+}
+li#li_87_5:nth-child(even) {
+	color: green;
+}
+/*#87_6*/
+li#li_87_6:nth-child(3n) {
+	color: red;
+}
+/*#87_7*/
+li#li_87_7:nth-last-child(2) {
+	color: red;
+}
+/*#87_8*/
+li#li_87_8:only-child {
+	color: red;
+}
+/*#87_9*/
+li#li_87_9:empty {
+	border: 1px solid blue;
+	width: 100px;
+}
+li#li_87_9 {
+	border: 1px solid red;
+	width: 100px;
+}
+li#li_87_9 {
+	margin-bottom: 10px;
+}
+/*#88_1*/
+p#p_88_1:first-of-type {
+	color: red;
+}
+h2#h2_88_1:last-of-type {
+	color: green;
+}
+/*#88_2*/
+p#p_88_2:nth-of-type(2) {
+	color: red;
+}
+h2#h2_88_2:nth-last-of-type(2) {
+	color: green;
+}
+/*#88_3*/
+h2#h2_88_3:only-of-type {
+	color: red;
+}
+/*#89_1*/
+li#li_89_1:not(li#li_89_1.elem) {
+	color: red;
+}
+/*#89_2*/
+li#li_89_2:not(:first-of-type) {
+	color: red;
+}
+/*#89_3*/
+li#li_89_3:not(:first-of-type, :last-of-type) {
+	color: red;
+}
