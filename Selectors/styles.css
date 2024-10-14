@@ -321,3 +321,86 @@ h2 .zzz_69 {
 div#div_72_1 p {
     color: red;
 }
+/*#72_2*/
+div#div_72_2 h2 {
+    color: red;
+}
+/*#72_3*/
+#block_72_3 p {
+    color: red;
+}
+/*#72_4*/
+#block_72_4 h2 {
+    color: red;
+}
+/*#72_5*/
+.bbb_72_5 {
+    color: red;
+}
+/*#72_6*/
+#block_72_6 .bbb_72_6 {
+    color: red;
+}
+/*#72_7*/
+p.bbb_72_7 {
+    color: red;
+}
+/*#72_8*/
+h2.bbb_72_8 {
+    color: red;
+}
+/*#72_9*/
+#block_72_9 p.bbb_72_9 {
+    color: red;
+}
+/*#72_10*/
+.bbb_72_10,
+.xxx_72_10 {
+    color: red;
+}
+/*#72_11*/
+p.bbb_72_11,
+h2.xxx_72_11 {
+    color: red;
+}
+/*#72_12*/
+#block_72_12 p.bbb_72_12,
+#block_72_12 p.xxx_72_12 {
+    color: red;
+}
+/*#72_13*/
+.fff_72_13 {
+    color: red;
+}
+/*#72_14*/
+.fff_72_14 p {
+    color: red;
+}
+/*#72_15*/
+p.fff_72_15 {
+    color: red;
+}
+/*#72_16*/
+.fff_72_16 .bbb_72_16 {
+    color: red;
+}
+/*#72_17*/
+.fff_72_17 h2.bbb_72_17 {
+    color: red;
+}   
+/*#77_1*/
+#elem_77_1+li {
+    color: red;
+}
+/*#77_2*/
+.elem_77_2+li {
+    color: red;
+}
+/*#78*/
+#elem_78_1~li {
+    color: red;
+}
+/*#79*/
+main#main_79_1 * p {
+    color: red;
+}
