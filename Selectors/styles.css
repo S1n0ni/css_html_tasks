@@ -1,0 +1,323 @@
+/*#51
+h1, h2, h3 {
+	text-align: center;
+}
+*/
+/*#52.1
+h1, h2, h3 {
+	text-align: center;
+}
+    h2{
+	color: blue;
+}
+h3 {
+	font-size: 16px;
+	color: red;
+#52.2
+h1,h2,h3{
+	text-align: center;
+	color: red;
+}
+h3 {
+	font-size: 16px;
+}
+*/
+/*#53.1
+ul li i{
+    color: red;
+}
+p i {
+    color: green;
+}
+#53.2
+p b i{
+    color:red; 
+}
+*/
+/*#54
+li > b {
+	color:red;
+}
+*/
+/*#55.1*/
+.eve {
+	color: green;
+}
+.odd {
+	color: red;
+}
+/*#55.2*/
+.eee {
+	color: red;
+}
+/*#56*/
+.xxx{
+    font-size: 30px;
+}
+/*#57*/
+.div_57_1 {
+    color: red;
+}
+
+.div_57_2 {
+    color: green;
+}
+
+.div_57_3 {
+    color: blue;
+}
+.div_57_4 {
+    color: red;
+}
+
+.div_57_5 {
+    color: green;
+}
+/*#58*/
+.eee_58,
+.zzz_58 {
+    line-height: 1.5;
+    font-family: Arial;
+}
+
+.eee_58 {
+    font-size: 20px;
+}
+
+.zzz_58 {
+    font-size: 30px;
+}
+/*#59*/
+.header_59 {
+	color: red;
+}
+h2.header_59
+{
+	font-size: 40px;
+}
+h3.header_59
+{
+	font-size: 30px;
+}
+/*#60*/
+.eee_60 i {
+    color: red;
+}
+/*#61*/
+.eee_61 .bbb_61 {
+    color: red;
+}
+.eee_61_2 h2 {
+    color: red;
+}
+.eee_61_3 h2.bbb_61_3 {
+    color: red;
+}
+.eee_61_4 h3.bbb_61_4 {
+    color: red;
+}
+.eee_61_5 p.bbb_61_5 {
+    color: red;
+}
+.eee_61_6 .bbb_61_6 .kkk_61_6 {
+    color: red;
+}
+/*#62*/
+p.bbb_62 {
+    color: red;
+}
+p.bbb_62_2 {
+    color: red;
+}
+.eee_62_3 p.bbb_62_3 {
+    color: red;
+}
+.eee_62_4 p .bbb_62_4 {
+    color: red;
+}
+/*#63*/
+.success_63 {
+    color: green;
+}
+
+.error_63 {
+    color: red;
+}
+
+.large_63 {
+    font-size: 30px;
+}
+
+.small_63 {
+    font-size: 20px;
+}
+/*#63.2*/
+.aaa_64 {
+    color: pink;
+}
+
+.bbb_63 {
+    font-size: 40px;
+}
+
+.ccc_63 {
+    font-family: arial;
+}
+/*#64*/
+#elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+#elem3 {
+    color: blue;
+}
+/*#65*/
+
+#block_65 {
+    color: red;
+    font-family: Arial;
+}
+
+.text {
+    font-size: 30px;
+}
+/*#66*/
+#elem_66 h2 {
+    color: red;
+}
+/*#66.2*/
+#elem_66_2 .text_66_1 {
+    color: red;
+}
+
+#elem_66 p.text_66_2 {
+    color: green;
+}
+
+#elem_66 li.text_66_3 {
+    color: blue;
+}
+/*#67*/
+.eee_67.ccc_67.zzz_67 {
+    color: purple;
+}
+/*#68*/
+.bbb_68.zzz_68 {
+    color: red;
+}
+
+h2.bbb_68.zzz_68 {
+    color: green;
+}
+
+#elem_68.bbb_68 {
+    color: purple;
+}
+
+#elem_68.bbb_68.zzz_68 {
+    color: blue;
+}
+
+h2#elem_68.bbb_68 {
+    color: gold;
+}
+/*#69*/
+h2.zzz_69 {
+    color: rgb(251, 255, 0);
+}
+
+h2 .zzz_69 {
+    color: rgb(15, 156, 74);
+}
+
+.bbb_69.zzz_69 {
+    color: rgb(180, 19, 153);
+}
+
+.bbb_69 .zzz_69 {
+    color: rgb(65, 7, 7);
+}
+
+.bbb_69.zzz_69.xxx_69 {
+    color: rgb(122, 90, 117);
+}
+
+.bbb_69 .zzz_69.xxx_69 {
+    color: rgb(1, 31, 39);
+}
+
+.bbb_69.zzz_69 .xxx_69 {
+    color: rgb(78, 224, 78);
+}
+
+.bbb_69 .zzz_69 .xxx_69 {
+    color: rgb(122, 4, 39);
+}
+
+#elem_69.bbb_69 {
+    color: rgb(24, 0, 88);
+}
+
+#elem_69 .bbb_69 {
+    color: rgb(187, 145, 243);
+}
+/*#70*/
+#block h1,
+#block h2 {
+    text-align: center;
+}
+/*#70.2*/
+#block h1,
+#block h2 {
+    text-align: center;
+}
+#block h1 {
+    font-size: 30px;
+}
+#block h2 {
+    font-size: 20px;
+}
+
+/*#71*/
+#block h1,
+#block h2,
+#block h3 {
+    text-align: center;
+}
+#block h2 {
+    color: blue;
+}
+#block h3 {
+    color: red;
+    font-size: 16px;
+}
+/*#71_2*/
+#block h1.eee,
+#block h2.zzz {
+    text-align: center;
+}
+#block h1.eee {
+    font-size: 30px;
+}
+#block h2.zzz {
+    font-size: 20px;
+}
+/*#71_3*/
+.xxx .kkk,
+.eee h2.zzz,
+#eee h2 {
+    text-align: center;
+}
+/*#71_4*/
+.eee h2.zzz,
+.xxx {
+    text-align: center;
+}
+/*#72_1*/
+div#div_72_1 p {
+    color: red;
+}
